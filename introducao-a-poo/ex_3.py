@@ -6,7 +6,7 @@ import math
 PI = 3.14159
 
 
-class circulo:
+class Circulo:
 
     def __init__(self, circunferencia):
         self.circunferencia = circunferencia
